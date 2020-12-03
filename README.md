@@ -7,3 +7,6 @@ Day 1: Expanding Cards
   
 Day 2: Progress Steps
   Project included DOM Manipulation.
+  
+Day 3: Rotating Navigation
+  Mostly worked with animations and transitions.
