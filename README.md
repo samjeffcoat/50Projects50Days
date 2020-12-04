@@ -10,3 +10,6 @@ Day 2: Progress Steps
   
 Day 3: Rotating Navigation
   Mostly worked with animations and transitions.
+  
+Day 4: Hidden Search
+  Worked with Transitions and JS to create hidden search. 
