@@ -13,3 +13,6 @@ Day 3: Rotating Navigation
   
 Day 4: Hidden Search
   Worked with Transitions and JS to create hidden search. 
+  
+Day 5: Blurry Load
+  Worked with transitions and blur to create blurry loading page.
