@@ -16,3 +16,6 @@ Day 4: Hidden Search
   
 Day 5: Blurry Load
   Worked with transitions and blur to create blurry loading page.
+  
+Day 6: Scroll Animation
+  Worked with transitions to create loading effect on scroll. 
