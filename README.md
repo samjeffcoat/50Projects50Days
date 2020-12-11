@@ -23,3 +23,5 @@ Day 6: Scroll Animation:
 Day 7: Split Landing Page:
 Worked with Css animations and transitions to create a shopping hover effect.
 
+Day 8: Form Wave Animation:
+Worked with transitions and a form to create a "bounce-up" effect.
