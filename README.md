@@ -25,3 +25,6 @@ Worked with Css animations and transitions to create a shopping hover effect.
 
 Day 8: Form Wave Animation:
 Worked with transitions and a form to create a "bounce-up" effect.
+
+Day 9: Sound Board:
+Worked with html audio tags. 
